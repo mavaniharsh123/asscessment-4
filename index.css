@@ -51,7 +51,7 @@
     font-size: 25px;
     margin-top: 4px;
 }
-p{
+.found{
     text-decoration: underline;
     -webkit-text-decoration-color: red; /* Safari */  
     text-decoration-color: red;
